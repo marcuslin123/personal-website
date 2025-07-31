@@ -18,7 +18,7 @@ export function Hero() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-accent rounded-full blur-xl opacity-30 animate-glow" />
               <img
-                src="https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=200&h=200&fit=crop&crop=face"
+                src="/lovable-uploads/cd444da2-e91e-4dc1-9b45-cce3f6c28700.png"
                 alt="Marcus Lin - Full Stack Developer"
                 className="relative w-32 h-32 rounded-full object-cover border-4 border-white/20 shadow-elegant hover:scale-105 transition-all duration-300"
               />
